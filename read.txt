@@ -1,0 +1,14 @@
+Thanks For Downloading Jipu Simulator, i hope you like this lil' program
+
+WARNING
+
+1)This program was made in Python 3.10.0, you need a this version or after this one
+
+2)There is a lot of issues because this is the first version
+	There will be other update to fix the glitches and add new API (always in python sure)
+
+3)The program is not supported by idle python shell
+
+4)The program will only work correctly if you open the launcher or the direct launcher first
+	this problem will maybe be corrected on other version
+PS : The .exe file are made if the program is definitive or if he hasn't a lot of issues

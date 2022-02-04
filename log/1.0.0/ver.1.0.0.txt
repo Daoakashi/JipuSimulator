@@ -1,0 +1,8 @@
+Jipu Beta Access (1.0.0)
+
+New API ADDED
+Password KeyAcces ver1.0.0 ADDED
+Updtate - COMING SOON
+Math - Ver1.0.0
+B64 added
+pyzip - only for extract
