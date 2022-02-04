@@ -10,7 +10,7 @@ if %input% == yes goto ok
 if %input% == no goto close
 
 :ok
-start programs\python_installer_3.1.0.exe
+python3
 
 cls
 echo Press 5 times any keyboard key to install Python required library
